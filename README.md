@@ -1,11 +1,9 @@
-![pinks (1)](https://github.com/PinkMean/SQL-Code/assets/137222857/8a954c7a-4996-4c9e-83e8-fb68a93dc8ce)
+![bannersl](https://github.com/PinkMean/SQL-Code/assets/137222857/43adb40f-ee89-478d-81a1-0a37ab52b8bc)
 
-👋 Hey there, it's Pink! I'm passionate about both tech and art. 
+👋 Hey there, it's PINKMEAN!
 
-🌱 I'm constantly learning new languages and breaking them down to make learning easy for you.
+🌱 I'm constantly learning and I love simplifying complex processes and sharing my expertise to help others.
 
-💻 Check out my GitHub for creative coding projects.
+🎨 I'm passionate about both tech and art. Blending my artistic flair with programming languages like HTML, CSS, JavaScript, and Python, along with data analyst skills projects.
 
-🎨 Blending my artistic flair with programming languages like HTML, CSS, JavaScript, and Python, along with data analyst skills projects.
-
-🌐 Let's connect and explore more about tech. I'm excited to express my creativity through technology.
+🌐 Let's connect and explore more about tech.
