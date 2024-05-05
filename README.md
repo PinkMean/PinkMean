@@ -1,9 +1,31 @@
 ![bannersl](https://github.com/PinkMean/SQL-Code/assets/137222857/43adb40f-ee89-478d-81a1-0a37ab52b8bc)
 
-👋 Hey there, it's PINKMEAN!
+# 🌸 Welcome to PINKLEARNING with PINKMEAN!
 
-🌱 I'm constantly learning and I love simplifying complex processes and sharing my expertise to help others.
+## About Me
+ Hey there! 👋 I'm a Business Analyst, Data Analyst, Educator, Content creator, and Programmer. I love making technology and design accessible by simplifying complex processes for teaching and helping others.
 
-🎨 I'm passionate about both tech and art. Blending my artistic flair with programming languages like HTML, CSS, JavaScript, and Python, along with data analyst skills projects.
+## Stay Connected:
+💬 Follow me on [GitHub](https://github.com/pinkmean), LinkedIn, and [YouTube](https://www.youtube.com/pinkleaarning) to keep up with my latest projects and insights.
 
-🌐 Let's connect and explore more about tech.
+## What You'll Find Here:
+- Educational materials on HTML, CSS, JavaScript, SQL, Python, and more.
+- Projects showcasing my passion for blending technology and design.
+- Insights into data analysis and programming.
+- Engaging content known for its simplicity and clarity.
+
+## Featured Projects:
+🚀 Here are some of the projects I've worked on:
+1. Employee Report - Learn SQL queries, Data Cleaning, Data Analysis and Visualize in Power Bi
+
+
+## YouTube Channel
+📺 Don't forget to subscribe to my [PINKLEARNING YouTube Channel](https://www.youtube.com/pinkleaarning) for engaging tutorials and insightful tips on mastering different languages.
+
+
+## GitHub
+🔗 [PINKMEAN on GitHub](https://github.com/pinkmean)
+ Explore my GitHub repositories for valuable resources, code samples, and open-source contributions:
+
+
+
