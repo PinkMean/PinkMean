@@ -3,7 +3,7 @@
 # 🌸 Welcome to PINKLEARNING with PINKMEAN!
 
 ## About Me
- Hey there! 👋 I'm a Business Analyst, Data Analyst, Educator, Content creator, and Programmer. I love making technology and design accessible by simplifying complex processes for teaching and helping others.
+ Hey there! 👋 I'm a Business Analyst, Data Analyst, Educator, Content creator, and Programmer. I'm passionate about simplifying complex processes to make learning easier for everyone.
 
 ## Stay Connected:
 💬 Follow me on [GitHub](https://github.com/pinkmean), LinkedIn, and [YouTube](https://www.youtube.com/pinkleaarning) to keep up with my latest projects and insights.
