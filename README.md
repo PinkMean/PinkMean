@@ -1,4 +1,6 @@
-![bannersl](https://github.com/PinkMean/SQL-Code/assets/137222857/43adb40f-ee89-478d-81a1-0a37ab52b8bc)
+![cover (1)](https://github.com/PinkMean/PinkMean/assets/137222857/0e1a029f-c015-43e6-ab2e-34638405aac5)
+
+
 
 # 🌸 Welcome to PINKLEARNING with PINKMEAN!
 
