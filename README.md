@@ -17,17 +17,19 @@
 
 ## Featured Projects:
 🚀 Here are some of the projects I've worked on:
-1. SQL Code
+1. [SQL Code](https://github.com/PinkMean/SQL-Code)
     - Employe Report,  DataCleaning and DataVisulization
     - Create Database, Create Table and Insert into...
-2. Excel
+2. [Excel](https://github.com/PinkMean/Excel)
    - Risk_Assessment_Matrix
-3. Python Code
+3. [Python Code](https://github.com/PinkMean/Python_Code)
     - Basic Syntax and Data Types
     - Web Scraping in Python using BeautifulSoup
-4. Python_Data_Visualization
+4. [Python_Data_Visualization](https://github.com/PinkMean/Python_Data_Visualization)  
     - List of Python Data visualization
     - Python using Matplotlib Risk Heat Map
+5. [Python Project](https://github.com/PinkMean/Python_Project)
+    - Audit Analyzer  
   
 ## YouTube Channel
 📺 Don't forget to subscribe to my [PINKLEARNING YouTube Channel](https://www.youtube.com/pinkleaarning) for engaging tutorials and insightful tips on mastering different languages.
