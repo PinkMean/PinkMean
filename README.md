@@ -29,6 +29,7 @@
     - List of Python Data visualization
     - Python using Matplotlib Risk Heat Map
 5. [Python Project](https://github.com/PinkMean/Python_Project)
+    - Transcript Editor
     - Audit Analyzer  
   
 ## YouTube Channel
