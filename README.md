@@ -33,7 +33,7 @@
     - Audit Analyzer  
   
 ## YouTube Channel
-📺 Don't forget to subscribe to my [PINKLEARNING YouTube Channel](https://www.youtube.com/pinkleaarning) for engaging tutorials and insightful tips on mastering different languages.
+📺 Don't forget to subscribe to my [Pinkmean Creative](https://www.youtube.com/watch?v=Y6-7rdzT_ro) for engaging tutorials and insightful tips on mastering different languages.
 
 
 ## GitHub
